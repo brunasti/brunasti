@@ -5,7 +5,7 @@ You can find some staff and info about my work at:
 
 Or you can download my last updated CV here:
 
-  [Paolo Brunasti Synthetic CV](https://github.com/brunasti/brunasti/blob/master/Brunasti_Paolo_cv_en_syntetic-1.00.pdf)
+  [Paolo Brunasti Synthetic CV](https://github.com/brunasti/brunasti/blob/master/Brunasti_Paolo_cv_en_syntetic-1.01.pdf)
 
 How to reach me:
   paolo@brunasti.it
